@@ -188,6 +188,7 @@ public class ShapeIComponent extends JComponent {
       // repaint
       repaint();
     }
+
   }
 }
 
